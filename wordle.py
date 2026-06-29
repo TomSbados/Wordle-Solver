@@ -49,4 +49,4 @@ class Wordle:
             return "Game Over"
 
         results = self.evaluate(guess) 
-        r
+        return results
